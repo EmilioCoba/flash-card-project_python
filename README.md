@@ -17,7 +17,9 @@ The app loads vocabulary from french_words.csv. As you mark words as known, they
 Controls:
 
 ✔️ Right button → mark word as known
+
 ❌ Wrong button → skip to next card
+
 Click card → flip between languages
 
 Tech Stack:
